@@ -14,7 +14,7 @@ Using the library is pretty much straight forward. No configuration required:
 </head>
 ```
 
-The code inside `liport.js` run automatically and import external resources.
+The code inside `liport.js` runs automatically and import external resources.
 
 To specify which resource to load, use `<link rel="import" src="...">` element. e.g.:
 ```javascript
