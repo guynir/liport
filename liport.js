@@ -1,6 +1,6 @@
 /*******************************************************************************************
  *
- * ImporterJS -- Lightweight import framework.
+ * Liport -- Lightweight import framework.
  *
  * Copyright (c) 2016 Guy Raz Nir
  *
